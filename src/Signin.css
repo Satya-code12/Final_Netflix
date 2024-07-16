@@ -1,0 +1,36 @@
+.signout-pg{
+  padding: 0;
+  padding: 0;
+  background-color: white;
+  min-height: 100vh;
+}
+.navbar{
+  display: flex;
+  box-sizing: border-box;
+  min-height: 5rem;
+  min-width: 100vw;
+}
+.signin-logo{
+  height: 3.5rem;
+  margin-top: .7rem;
+  margin-left: 1.5rem;
+  cursor: pointer;
+}
+.signout-btn{
+  margin-left: 48rem;
+  width: 6rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  border: none;
+  cursor: pointer;
+  background: transparent;
+}
+.signin-div{
+  color: black;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items: center;
+  padding-top: 5rem;
+  font-size: 2rem;
+}
